@@ -3,8 +3,10 @@
 calc.go is intended to be a "same flavor" of lexing/parsing calculator as
 in
 https://github.com/xharaken/step2015/blob/master/calculator_modularize_2.py
-Please note that this is not a very canonical "Go" style. But this
-intentionally follows
+
+**Please note that this is not a very canonical "Go" style.**
+
+This intentionally follows
 https://github.com/xharaken/step2015/blob/master/calculator_modularize_2.py
 nearly line-by-line and avoids concepts like interfaces, functors, or
 slices of strings.
@@ -17,4 +19,4 @@ https://talks.golang.org/2011/lex.slide ).
 
 ## Want to learn Go?
 
-Start by checking out the ["A Tour of Go"](https://tour.golang.org/)!
+Start by checking out ["A Tour of Go"](https://tour.golang.org/)!
