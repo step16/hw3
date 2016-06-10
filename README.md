@@ -17,4 +17,4 @@ https://talks.golang.org/2011/lex.slide ).
 
 ## Want to learn Go?
 
-Start by checking out the ["Tour of Go"](https://tour.golang.org/)!
+Start by checking out the ["A Tour of Go"](https://tour.golang.org/)!
