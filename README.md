@@ -1,3 +1,5 @@
+# Sample Go Code for HW3
+
 calc.go is intended to be a "same flavor" of lexing/parsing calculator as
 in
 https://github.com/xharaken/step2015/blob/master/calculator_modularize_2.py
@@ -12,3 +14,7 @@ authors of Go) about a much cleaner way to write lexers like this,
 explaining how https://golang.org/pkg/text/template/ works internally
 at https://www.youtube.com/watch?v=HxaD_trXwRE (with slides at
 https://talks.golang.org/2011/lex.slide ).
+
+## Want to learn Go?
+
+Start by checking out the ["Tour of Go"](https://tour.golang.org/)!
